@@ -32,7 +32,7 @@ body {
     color: #4d5ae5;
 }
 
-.text-italic {
+.text-talic {
     color: #2e2f42;
 }
 
@@ -60,7 +60,9 @@ body {
     color: #434455;
 }
 
-.contact-list-link:hover,
+.contact-list-link:hover{
+        color: #404bbf;
+    }
 .contact-list-link:focus {
     color: #404bbf;
 }
@@ -94,7 +96,7 @@ body {
 }
 
 .buy-now-btn:hover,
-.buy-now-bt:focus {
+.buy-now-btn:focus {
     font-weight: 600;
     background-color: #404BBF;
     cursor: pointer;
@@ -183,14 +185,14 @@ body {
 
 /* =========== Footer styles =========== */
 
-.page-footer {
+.pg-footer {
     background-color: #2e2f42;
 }
 
 
 
 
-.text-italic {
+.text-ttalic {
     color: #f4f4fd;
 }
 
@@ -203,4 +205,3 @@ body {
     background: #2e2f42;
 }
 
-/* =========== / Footer styles =========== */
